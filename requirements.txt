@@ -1,0 +1,7 @@
+django
+flask
+scikit-learn
+matpoltlib
+numpy
+pandas
+seaborn
