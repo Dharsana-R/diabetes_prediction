@@ -8,7 +8,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn import metrics
 from sklearn.metrics import classification_report
 #loading the dataset
-diabetes_df = pd.read_csv('diabetes.csv')
+diabetes_df = pd.read_csv('D:\diabetes.csv')
 diabetes_df.head()
 
 diabetes_df.columns
