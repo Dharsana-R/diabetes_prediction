@@ -1,7 +1,7 @@
 django
 flask
 scikit-learn
-matpoltlib
+matplotlib
 numpy
 pandas
 seaborn
